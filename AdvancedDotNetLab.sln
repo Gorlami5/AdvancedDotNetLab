@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicObjectProduction", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedGenerics", "AdvancedGenerics\AdvancedGenerics.csproj", "{CE99706A-D5BC-4C83-BC6F-6220B0AC4394}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covariance & Contravariance", "Covariance & Contravariance\Covariance & Contravariance.csproj", "{2A9D313D-5B75-40EF-8B13-4DC775394785}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{CE99706A-D5BC-4C83-BC6F-6220B0AC4394}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE99706A-D5BC-4C83-BC6F-6220B0AC4394}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE99706A-D5BC-4C83-BC6F-6220B0AC4394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9D313D-5B75-40EF-8B13-4DC775394785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9D313D-5B75-40EF-8B13-4DC775394785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9D313D-5B75-40EF-8B13-4DC775394785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9D313D-5B75-40EF-8B13-4DC775394785}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
