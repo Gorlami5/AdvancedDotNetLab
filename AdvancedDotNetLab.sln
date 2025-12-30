@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covariance & Contravariance
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{FF1557AB-0FB4-4964-9B68-BB4B12110C65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedAccessModifiers", "AdvancedAccessModifiers\AdvancedAccessModifiers.csproj", "{5DC44446-6568-45E3-B21C-D1ACE5F1EDCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{FF1557AB-0FB4-4964-9B68-BB4B12110C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF1557AB-0FB4-4964-9B68-BB4B12110C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF1557AB-0FB4-4964-9B68-BB4B12110C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC44446-6568-45E3-B21C-D1ACE5F1EDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC44446-6568-45E3-B21C-D1ACE5F1EDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC44446-6568-45E3-B21C-D1ACE5F1EDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC44446-6568-45E3-B21C-D1ACE5F1EDCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
