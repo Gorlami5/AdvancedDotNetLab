@@ -31,7 +31,7 @@ ref int Test2(ref int k)
 
 int t2 = 10;
 var q2 = Test3(ref t2);
-q1 = 33;
+q2 = 33;
 ref int Test3(ref int k)
 {
     k = 22;
