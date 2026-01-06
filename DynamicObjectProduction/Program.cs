@@ -23,7 +23,9 @@ d.Prop1 = "2";
 d.Prop2 = 3;
 
 Console.WriteLine(d.Prop1);
-//Expando Object yapısı tanımlanmamış bir nesne olsa dahi böyle bir objenin var olduğunu ve bundan instance yaratılmasını sağlayan yapıdır.
+//Expando Object yapısı dinamic olarak run time sırasında önceden tanımlanmamış nesneleri yaratmamıza yarayacaktır.
+//Örneğin bir raporlama sisteminde client üzerinden gelecek olan kolon bilgileri her seferinde değişebilir ve bizim her istek için bir nesne tanımlama şansımız olmaz.
+//Bu durumlarda gelen istek doğru bir şekilde okunup run time'da ona göre nesne yaratmamız daha doğru olacaktır.
 #endregion
 
 class MyClass
