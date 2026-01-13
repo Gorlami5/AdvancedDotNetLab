@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "Extensi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticAbstractMembers", "StaticAbstractMembers\StaticAbstractMembers.csproj", "{4077AB94-5294-4760-A64F-69AF03FCA2E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutableAndImmutable", "MutableAndImmutable\MutableAndImmutable.csproj", "{7EA82C5C-5EB2-452E-B793-EB47B195B27C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{4077AB94-5294-4760-A64F-69AF03FCA2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4077AB94-5294-4760-A64F-69AF03FCA2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4077AB94-5294-4760-A64F-69AF03FCA2E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA82C5C-5EB2-452E-B793-EB47B195B27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA82C5C-5EB2-452E-B793-EB47B195B27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA82C5C-5EB2-452E-B793-EB47B195B27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA82C5C-5EB2-452E-B793-EB47B195B27C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
